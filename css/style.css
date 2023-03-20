@@ -1,0 +1,125 @@
+*,
+after,
+before {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.265rem;
+    margin-top: 100px;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h3,
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top {
+    background-color: #e4f9f5;
+}
+
+.learning {
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.coding{
+    float: right;
+    margin-left: 20px;
+}
+
+.upper-cloud {
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+
+.profile{
+    margin: 80px auto;
+    line-height: 2;
+    width: 30%;
+}
+
+.hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 40px;
+    margin: 0 auto;
+    color: #EAF6F6;
+    margin-bottom: 70px;
+}
+
+.cloud {
+    position: relative;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.contact-me{
+    width: 30%;
+    margin: 0 auto;
+    line-height: 4;
+}
+
+.btn{
+    display: inline-block;
+    height: 30px;
+    padding: 0 20px;
+    line-height: 2;
+    align-items: baseline;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+}
+
+.btn:hover{
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+
+.bottom-container{
+    margin-top: 100px;
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+    line-height: 3;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: #11999E;
+    margin-right: 30px;
+}
+
+.name{
+    color: #fff;
+}
